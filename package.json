@@ -1,0 +1,15 @@
+{
+	"name": "automate-raize",
+	"version": "1.0.0",
+	"description": "automate raize assigment",
+	"main": "index.js",
+	"scripts": {
+		"start": "node puppeteer.js"
+	},
+	"author": "Fernando Gomes",
+	"license": "ISC",
+	"dependencies": {
+		"prompt": "^1.0.0",
+		"puppeteer": "~5.3.1"
+	}
+}
